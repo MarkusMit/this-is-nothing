@@ -30,12 +30,11 @@
 |Group
 
 |Firefox
-|Web Browser
+|Browser
 
 |Ruby
 |Programming Language
 
-...
 |===
 
 |===
@@ -44,7 +43,9 @@
 |Firefox
 |Browser
 
-...
+|Ruby
+|Programming Language
+
 |===
 
 == Class Diagram
@@ -67,7 +68,10 @@ Class1 -> Class2
 @enduml
 --
 
-Some callouts
+Text with +
+soft line break.
+
+Some callouts:
 
 <1> first
 <2> second
