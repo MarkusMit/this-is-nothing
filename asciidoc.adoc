@@ -1,0 +1,50 @@
+= An AsciiDoc document
+:encoding: utf-8
+:lang: en
+:toc: 
+:source-language: java
+
+== Open Issues
+
+* Configuration loading phase
+
+** prefetch via `ApplicationStarter` ?
+
+* Registration phase
+
+** How to identify 'layer' (core, country, customer) of registered validation?
+
+* Execution Phase
+
+** Validation order
+** prevent multiple execution
+** ? Ignore-ValidFrom-flag 
+
+* Evaluation Phase
+
+== Class Diagram
+
+.Class Diagram Test
+[plantuml, file="test-class-diagram.png", alt="Class Diagram"]
+--
+@startuml
+
+package Package <<Frame>> #DDDDDD {
+    class Class1 <<Singleton>> {
+      + String meth1(..)
+      + boolean meth2(..) 
+    } 
+    class Class2 
+}
+
+Class1 -> Class2
+
+@enduml
+--
+
+Some callouts
+
+<1> first
+<2> second
+
+*Bold* finale.
