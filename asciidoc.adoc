@@ -6,13 +6,15 @@
 
 == Bullet Point List
 
-* Configuration loading phase
+* Configuration  phase
 
-** prefetch via `ApplicationStarter` ?
+** *prefetch* via `ApplicationStarter` ?
 
-* Registration phase
+=== second level heading
 
-** How to identify 'layer' (core, country, customer) of registered object?
+* _Registration_ phase
+
+** How to identify _*layer*_ (core, country, customer) of registered object?
 
 * Execution Phase
 
@@ -20,7 +22,7 @@
 ** prevent multiple execution
 ** ? Ignore-ValidFrom-flag 
 
-* Evaluation Phase
+NOTE: This should be in a box.
 
 == A Table
 
