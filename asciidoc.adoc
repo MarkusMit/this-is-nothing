@@ -14,7 +14,7 @@
 
 * _Registration_ phase
 
-** How to identify _*layer*_ (core, country, customer) of registered object?
+** How to identify _*layer*_ (core, country, customer) of *_registered_* object?
 
 * Execution Phase
 
