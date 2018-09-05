@@ -4,7 +4,7 @@
 :toc: 
 :source-language: java
 
-== Open Issues
+== Bullet Point List
 
 * Configuration loading phase
 
@@ -12,15 +12,40 @@
 
 * Registration phase
 
-** How to identify 'layer' (core, country, customer) of registered validation?
+** How to identify 'layer' (core, country, customer) of registered object?
 
 * Execution Phase
 
-** Validation order
+** order
 ** prevent multiple execution
 ** ? Ignore-ValidFrom-flag 
 
 * Evaluation Phase
+
+== A Table
+
+[cols=2*,options=header]
+|===
+|Name
+|Group
+
+|Firefox
+|Web Browser
+
+|Ruby
+|Programming Language
+
+...
+|===
+
+|===
+|Name |Group
+
+|Firefox
+|Browser
+
+...
+|===
 
 == Class Diagram
 
