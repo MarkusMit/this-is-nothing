@@ -3,3 +3,4 @@ nothing relevant in here.
 
 This is only for testing AsciiDoc support by github.com.
 
+But as said above, there's not much to gain from this.
